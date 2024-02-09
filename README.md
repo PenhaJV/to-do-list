@@ -98,7 +98,7 @@ Usage
 
 Contribution Guidelines
 
-Contributions are welcome! If you'd like to contribute to the project, please follow these guidelines:
+Contributions are welcome! If you would like to contribute to the project, please follow these guidelines:
 
     Fork the repository on GitHub.
     Clone the forked repository to your local machine.
